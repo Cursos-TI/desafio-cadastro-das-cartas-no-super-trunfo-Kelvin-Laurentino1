@@ -3,7 +3,7 @@
 int main(){
     char estado1[8], estado2[8];
     char cidade1[20], cidade2[20];
-    char codcarta1[4], codcarta2[4];
+    char codcarta1[4], codcarta2[4]; // codigo da carta 
     int populacao1, populacao2;
     float area1, area2;
     float PIB1, PIB2;
